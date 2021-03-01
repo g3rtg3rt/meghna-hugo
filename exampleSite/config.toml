@@ -1,4 +1,4 @@
-baseURL = "https://g3rt-test.netlify.com"
+baseURL = "https://mystifying-davinci-26e2f9.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
