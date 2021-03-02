@@ -1,6 +1,12 @@
 ---
 label: TestTemplate
 hide_body: false
-fields: []
+fields:
+- name: image_upload
+  type: file
+  config:
+    maxSize: 64
+  label: Image Upload
+  description: test image upload
 pages:
 - exampleSite/data/newPage.md
