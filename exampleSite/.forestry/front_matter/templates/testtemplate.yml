@@ -2,3 +2,5 @@
 label: TestTemplate
 hide_body: false
 fields: []
+pages:
+- exampleSite/data/newPage.md
