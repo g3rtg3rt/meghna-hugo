@@ -5,3 +5,9 @@ fields:
 - type: file
   name: image_upload
   label: image_upload
+- name: testtext
+  type: text
+  config:
+    required: false
+  label: testtext
+  description: testtext
