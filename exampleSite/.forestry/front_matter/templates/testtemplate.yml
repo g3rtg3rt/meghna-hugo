@@ -9,4 +9,5 @@ fields:
   label: Image Upload
   description: test image upload
 pages:
+- exampleSite/data/en/testPage.md
 - exampleSite/data/newPage.md
