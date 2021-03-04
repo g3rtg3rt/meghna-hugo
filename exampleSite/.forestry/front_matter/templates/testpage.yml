@@ -1,0 +1,7 @@
+---
+label: testpage
+hide_body: false
+fields:
+- type: file
+  name: image_upload
+  label: image_upload
